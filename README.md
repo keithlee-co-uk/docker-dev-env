@@ -1,2 +1,3 @@
-# py-dev-env
-A consistent and replicable place for my development work
+# Python Development Environment
+A consistent and replicable place for my development work using Docker
+
